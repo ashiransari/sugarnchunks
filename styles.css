@@ -281,7 +281,7 @@ span {
 }
 
 @media (max-width: 480px) {
-  .top cloud {
+  .top-cloud {
     display: none;
   }
 
